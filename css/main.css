@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+.hidden{
+    display: none;
+}
+
+body{
+  width: 1024;
+  margin: 0 auto;
+  background-color: black;
+  color: white;
+
+}
+
+header{
+  text-align: center;
+}
+
+header, .choice{
+  margin-bottom: 60px;
+}
+
+.result{
+  margin-top: 60px;
+}
+
+button{
+  cursor: pointer;
+  
+}
